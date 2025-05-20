@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # translate-app
 
 ## Project setup
@@ -22,3 +23,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# vue-language-translator
+>>>>>>> 7a9795c8cc6b78c7fcb57c9350ab797ac2e30efc
